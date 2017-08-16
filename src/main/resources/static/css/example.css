@@ -1,0 +1,33 @@
+body {
+	background-color: #ffffff;
+}
+
+.header {
+	background-color: #e8e8e8;
+}
+
+.row {
+	font-size: 16px;
+	font-color: #666666;
+	margin: 2px 2px;
+	padding: 3px 3px;
+}
+
+.odd {
+	background-color: #f0f0f0;
+}
+
+.even {
+	background-color: #ffffff;
+}
+
+.message {
+	font-size: 23px;
+	font-color: #000000;
+}
+
+/* style.css */
+* {
+   font-size: 20px;
+   line-height: 2;
+}
